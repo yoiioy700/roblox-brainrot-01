@@ -1,0 +1,1 @@
+{"steps":[{"call":{"fn":"spawnRare","module":"ServerScriptService.Server.Tour","on":"Server"},"screenshot":"1-thumbnail.png"},{"screenshot":"2-play.png"},{"call":{"fn":"startWaveNow","module":"ServerScriptService.Server.Tour","on":"Server"},"screenshot":"3-event.png","wait_ms":3000}],"tour":1}
